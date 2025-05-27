@@ -127,7 +127,7 @@ here to render the triangle , follow the below steps:
 - run `cmake --build .``
 - then go to the `./build` and run `./triangle`, this will render the triangle
 
-![alt text](image.png)
+![alt text](/images/triangle.png)
 
 boom!!
-we have our first image rendered in OPENGL, we got this gng :)
+we have our first image rendered in OPENGL gng 
