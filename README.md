@@ -1,6 +1,8 @@
 # graphics_prog
 they made us do graphics programming gng  🥀
 
+
+Graphics programming using OPENGL in Arch Linux, seting up through rendering your first image.
 ### graphics.h
 
 using the graphics.h header in the file to simply render a circle
