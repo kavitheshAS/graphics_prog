@@ -1,0 +1,4 @@
+/home/kavithesh/CarbamideSandwich/c_prog/graphics_prog/build/CMakeFiles/test_window.dir
+/home/kavithesh/CarbamideSandwich/c_prog/graphics_prog/build/CMakeFiles/triangle.dir
+/home/kavithesh/CarbamideSandwich/c_prog/graphics_prog/build/CMakeFiles/edit_cache.dir
+/home/kavithesh/CarbamideSandwich/c_prog/graphics_prog/build/CMakeFiles/rebuild_cache.dir
